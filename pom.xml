@@ -25,7 +25,7 @@
                                 <argument>root</argument>
                                 <argument>-pYOUR_PASSWORD</argument>
                                 <argument>sample_db</argument>
-                                <argument><</argument>
+                                <argument>&lt;</argument>
                                 <argument>src/main/resources/setup_database.sql</argument>
                             </arguments>
                         </configuration>
